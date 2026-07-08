@@ -1,20 +1,124 @@
-# 💫 About Me:
-i'm currently working on developing real world projects using ai,machine learning<br>i'm looking to collaborate on system design<br>i'm currently learning networking and systems<br>buy me a coffee to know more
+# Hi, I'm Surya Sasank Oruganti 👋
 
+**Computer Science Undergraduate | AI & Machine Learning Enthusiast | Network Automation | Cybersecurity | Full-Stack Developer**
 
-## 🌐 Socials:
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryaoruganti007@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suryaoruganti007&show_icons=true&theme=tokyonight" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaoruganti007&layout=compact&theme=tokyonight" height="170"/> </p>
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=suryaoruganti007&theme=tokyonight"/> </p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I enjoy building software that solves real-world problems. My interests lie at the intersection of Artificial Intelligence, Network Automation, Distributed Systems, and Cloud Technologies. I focus on developing practical, production-oriented projects while continuously expanding my understanding of system architecture and scalable software engineering.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=suryaoruganti007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+* Computer Science student at **Anurag University**
+* BSc (Hons) Motorsport Engineering student (National Motorsport Academy, UK)
+* Building AI, Machine Learning, and Network Automation projects
+* Learning Distributed Systems, Cloud Computing, and Enterprise Networking
+* Interested in System Design, Infrastructure Automation, and Backend Engineering
+* Open to collaborating on open-source projects related to AI, networking, and distributed systems
+
+---
+
+## Current Focus
+
+* Artificial Intelligence & Machine Learning
+* Large Language Models (LLMs)
+* Network Automation using Python
+* Backend Development with FastAPI
+* System Design
+* Cloud & Container Technologies
+* Cybersecurity Fundamentals
+
+---
+
+## Featured Projects
+
+### AI Resume Job Matcher
+
+An AI-powered recruitment platform that compares resumes with job descriptions using NLP and semantic similarity models.
+
+**Tech Stack**
+
+Python • FastAPI • React • Sentence Transformers • spaCy • Docker
+
+---
+
+### Network Automation Framework
+
+A Python automation framework for Cisco networks capable of:
+
+* Automated router provisioning
+* OSPF deployment
+* SSH device management
+* Configuration backups
+* Configuration drift detection
+* Inventory-driven automation
+
+**Tech Stack**
+
+Python • Netmiko • Cisco IOSv • GNS3 • VMware • YAML
+
+---
+
+### Currently Building
+
+* AI-powered applications
+* Enterprise networking labs
+* Backend APIs
+* Cloud-native applications
+* Machine Learning projects
+
+---
+
+## Technical Skills
+
+### Languages
+
+Python • Java • C • JavaScript • TypeScript • SQL
+
+### AI & Machine Learning
+
+PyTorch • Scikit-learn • Pandas • Matplotlib • NLP • Sentence Transformers • spaCy
+
+### Backend
+
+FastAPI • Django • Node.js • Express • Spring Boot
+
+### Frontend
+
+React • HTML • CSS • Tailwind CSS • Vite
+
+### Networking
+
+Cisco IOS • OSPF • VLAN • STP • DHCP • NAT • ACL • SSH • Network Automation
+
+### Databases
+
+PostgreSQL • MySQL • MongoDB • SQL Server
+
+### DevOps & Cloud
+
+Docker • Kubernetes • Git • GitHub Actions • Azure • VMware • GNS3
+
+---
+
+## GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=suryaoruganti007&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryaoruganti007&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=suryaoruganti007&theme=tokyonight"/>
+</p>
+
+---
+
+## Connect
+
+📧 **Email:** [suryaoruganti007@gmail.com](mailto:suryaoruganti007@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/surya-sasank-oruganti-5b76a2290
+
+---
+
+> *"Build. Automate. Learn. Repeat."*
